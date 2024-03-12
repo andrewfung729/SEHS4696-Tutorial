@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "test-ml"
+name = "SEHS4696-ML"
 version = "0.1.0"
 description = ""
 authors = ["andrewfung729 <official@waiki.me>"]
